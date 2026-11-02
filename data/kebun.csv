@@ -1,0 +1,37 @@
+farm_id,petani,kabupaten,desa,lat,lon,ketinggian_mdpl,luas_ha,varietas,praktik_budidaya
+KBN-01,Pak Ismail,Aceh Tengah,Bebesen,4.6293,96.8009,1235,1.8,Ateng Super,Organik
+KBN-02,Bu Salmah,Aceh Tengah,Pegasing,4.5905,96.8002,1366,1.6,Bourbon,Konvensional
+KBN-03,Pak Rahmat,Aceh Tengah,Atu Lintang,4.7038,96.6735,1253,3.0,Gayo 2,Konvensional
+KBN-04,Bu Zulkifli,Aceh Tengah,Ketol,4.5727,96.9103,1431,2.2,Gayo 2,Semi-organik
+KBN-05,Pak Nurhayati,Aceh Tengah,Kebayakan,4.6423,96.8966,1645,1.3,Gayo 2,Konvensional
+KBN-06,Bu Hasballah,Bener Meriah,Bener Kelipah,4.7581,96.8839,1364,3.2,Ateng Super,Semi-organik
+KBN-07,Pak Anwar,Bener Meriah,Wih Pesam,4.79,96.7755,1557,2.0,Bourbon,Semi-organik
+KBN-08,Bu Fatimah,Bener Meriah,Permata,4.7341,96.8208,1453,1.5,Ateng Super,Semi-organik
+KBN-09,Pak Muksin,Aceh Tengah,Bebesen,4.651,96.8457,1481,2.8,Gayo 2,Organik
+KBN-10,Bu Darwis,Aceh Tengah,Pegasing,4.6417,96.8341,1285,2.1,Ateng Super,Semi-organik
+KBN-11,Pak Halimah,Aceh Tengah,Atu Lintang,4.697,96.6746,1217,2.2,Gayo 1,Semi-organik
+KBN-12,Bu Sulaiman,Aceh Tengah,Ketol,4.6015,96.925,1557,3.5,Gayo 1,Semi-organik
+KBN-13,Pak Yusuf,Aceh Tengah,Kebayakan,4.6192,96.8686,1371,1.9,Ateng Super,Semi-organik
+KBN-14,Bu Aminah,Bener Meriah,Bener Kelipah,4.7581,96.8737,1455,1.2,Bourbon,Konvensional
+KBN-15,Pak Jamaluddin,Bener Meriah,Wih Pesam,4.7952,96.7632,1245,2.1,Gayo 1,Organik
+KBN-16,Bu Rukiah,Bener Meriah,Permata,4.7525,96.7921,1502,2.4,Gayo 2,Organik
+KBN-17,Pak Abdullah,Aceh Tengah,Bebesen,4.6334,96.8417,1314,2.9,Gayo 2,Konvensional
+KBN-18,Bu Mariana,Aceh Tengah,Pegasing,4.5972,96.8156,1623,1.4,Gayo 2,Konvensional
+KBN-19,Pak Khalid,Aceh Tengah,Atu Lintang,4.7071,96.7116,1260,2.9,Gayo 1,Konvensional
+KBN-20,Bu Saidah,Aceh Tengah,Ketol,4.5398,96.9345,1381,1.7,Ateng Super,Semi-organik
+KBN-21,Pak Fauzan,Aceh Tengah,Kebayakan,4.6486,96.8843,1412,0.9,Gayo 1,Semi-organik
+KBN-22,Bu Ratna,Bener Meriah,Bener Kelipah,4.7138,96.9071,1325,2.6,Ateng Super,Semi-organik
+KBN-23,Pak Burhan,Bener Meriah,Wih Pesam,4.7551,96.7688,1234,2.6,Ateng Super,Semi-organik
+KBN-24,Bu Syarifah,Bener Meriah,Permata,4.7127,96.8237,1253,2.7,Ateng Super,Semi-organik
+KBN-25,Pak Idris,Aceh Tengah,Bebesen,4.6542,96.8299,1518,3.1,Gayo 1,Konvensional
+KBN-26,Bu Nurlela,Aceh Tengah,Pegasing,4.5586,96.7969,1522,1.1,Gayo 2,Konvensional
+KBN-27,Pak Mahdi,Aceh Tengah,Atu Lintang,4.6872,96.6307,1495,1.1,Gayo 1,Konvensional
+KBN-28,Bu Zainab,Aceh Tengah,Ketol,4.5579,96.9629,1365,1.4,Ateng Super,Konvensional
+KBN-29,Pak Taufik,Aceh Tengah,Kebayakan,4.6484,96.8653,1257,2.8,Gayo 2,Organik
+KBN-30,Bu Rosnidar,Bener Meriah,Bener Kelipah,4.7293,96.8968,1282,1.8,Gayo 1,Semi-organik
+KBN-31,Pak Samsul,Bener Meriah,Wih Pesam,4.7862,96.8075,1511,1.4,Gayo 1,Konvensional
+KBN-32,Bu Hidayah,Bener Meriah,Permata,4.7392,96.8184,1409,1.0,Ateng Super,Semi-organik
+KBN-33,Pak Ridwan,Aceh Tengah,Bebesen,4.6353,96.8228,1413,2.7,Ateng Super,Organik
+KBN-34,Bu Maisarah,Aceh Tengah,Pegasing,4.5773,96.8058,1523,2.8,Gayo 1,Konvensional
+KBN-35,Pak Hamzah,Aceh Tengah,Atu Lintang,4.7243,96.6619,1642,2.0,Gayo 2,Konvensional
+KBN-36,Bu Cut Nila,Aceh Tengah,Ketol,4.5075,96.945,1447,2.6,Gayo 1,Semi-organik

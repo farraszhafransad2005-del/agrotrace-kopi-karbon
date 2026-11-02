@@ -1,0 +1,6 @@
+streamlit>=1.40
+pandas
+plotly>=5.24
+pymongo[srv]
+qrcode
+pillow

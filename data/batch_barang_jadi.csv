@@ -1,0 +1,230 @@
+fg_id,roast_ids,green_id,produk,tgl_kemas,jumlah_kemasan,tgl_kedaluwarsa,tujuan_distribusi,tgl_kirim,jarak_km,film_kg,kardus_kg,listrik_kemas_kwh
+FG-GYO-2602-001,RST-001,GRN-01,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-02-10,52,2026-11-07,Toko Kopi Bogor,2026-02-15,2338,0.659,1.236,0.23
+FG-GYO-2602-002,RST-002|RST-003|RST-004,GRN-01,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-02-10,149,2026-11-07,Toko Daring (kurir),2026-02-16,1857,1.613,3.816,0.68
+FG-GYO-2602-003,RST-005|RST-006|RST-007,GRN-01,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-02-13,154,2026-11-10,Kedai Medan,2026-02-17,668,2.125,3.636,0.84
+FG-GYO-2602-004,RST-008,GRN-01,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-02-14,54,2026-11-11,Toko Daring (kurir),2026-02-22,1883,0.703,1.364,0.35
+FG-GYO-2602-005,RST-009,GRN-01,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-02-13,56,2026-11-10,Toko Kopi Bogor,2026-02-17,2355,0.699,1.052,0.35
+FG-GYO-2602-006,RST-010,GRN-01,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-02-12,43,2026-11-09,Kafe Kampus IPB,2026-02-21,2227,0.476,0.849,0.21
+FG-GYO-2602-007,RST-011,GRN-01,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-02-16,55,2026-11-13,Distributor Jakarta,2026-02-24,2124,0.734,1.182,0.25
+FG-GYO-2601-008,RST-012|RST-013,GRN-02,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-01-10,104,2026-10-07,Distributor Jakarta,2026-01-17,2186,1.395,2.022,0.59
+FG-GYO-2601-009,RST-014,GRN-02,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-01-09,56,2026-10-06,Distributor Jakarta,2026-01-12,2257,0.741,1.24,0.27
+FG-GYO-2601-010,RST-015|RST-016,GRN-02,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-01-09,89,2026-10-06,Toko Daring (kurir),2026-01-15,1914,0.907,2.009,0.54
+FG-GYO-2601-011,RST-017|RST-018|RST-019,GRN-02,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-01-13,142,2026-10-10,Toko Daring (kurir),2026-01-18,1863,1.574,2.811,0.99
+FG-GYO-2601-012,RST-020,GRN-02,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-01-12,49,2026-10-09,Kafe Kampus IPB,2026-01-19,2259,0.514,1.05,0.39
+FG-GYO-2604-013,RST-021,GRN-03,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-04,57,2026-12-30,Distributor Jakarta,2026-04-08,2145,0.66,1.176,0.37
+FG-GYO-2604-014,RST-022|RST-023,GRN-03,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-06,93,2027-01-01,Kedai Medan,2026-04-13,649,0.941,2.197,0.61
+FG-GYO-2604-015,RST-024,GRN-03,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-07,41,2027-01-02,Distributor Jakarta,2026-04-14,2096,0.514,0.904,0.3
+FG-GYO-2604-016,RST-025|RST-026,GRN-03,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-05,97,2026-12-31,Kafe Kampus IPB,2026-04-10,2270,1.154,1.801,0.76
+FG-GYO-2604-017,RST-027|RST-028|RST-029,GRN-03,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-10,149,2027-01-05,Distributor Jakarta,2026-04-14,2210,2.079,3.583,0.65
+FG-GYO-2604-018,RST-030|RST-031,GRN-03,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-11,106,2027-01-06,Toko Kopi Bogor,2026-04-17,2228,1.444,2.321,0.74
+FG-GYO-2604-019,RST-032|RST-033,GRN-03,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-10,94,2027-01-05,Distributor Jakarta,2026-04-14,2109,1.198,2.152,0.47
+FG-GYO-2604-020,RST-034,GRN-03,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-10,58,2027-01-05,Kedai Medan,2026-04-19,637,0.617,0.991,0.34
+FG-GYO-2601-021,RST-035|RST-036|RST-037,GRN-04,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-01-16,153,2026-10-13,Kedai Medan,2026-01-25,667,1.638,3.976,0.75
+FG-GYO-2601-022,RST-038,GRN-04,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-01-16,56,2026-10-13,Kafe Banda Aceh,2026-01-22,470,0.596,1.113,0.24
+FG-GYO-2601-023,RST-039,GRN-04,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-01-19,52,2026-10-16,Distributor Jakarta,2026-01-22,2160,0.584,1.239,0.34
+FG-GYO-2601-024,RST-040|RST-041|RST-042,GRN-04,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-01-18,152,2026-10-15,Kedai Medan,2026-01-23,681,1.638,3.909,1.19
+FG-GYO-2601-025,RST-043|RST-044,GRN-04,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-01-20,92,2026-10-17,Toko Daring (kurir),2026-01-25,1916,1.222,1.85,0.65
+FG-GYO-2601-026,RST-045|RST-046,GRN-04,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-01-19,84,2026-10-16,Kafe Kampus IPB,2026-01-26,2232,1.08,1.99,0.62
+FG-GYO-2601-027,RST-047,GRN-05,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-01-27,55,2026-10-24,Kafe Banda Aceh,2026-02-03,458,0.721,1.213,0.24
+FG-GYO-2601-028,RST-048|RST-049|RST-050,GRN-05,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-01-29,156,2026-10-26,Toko Kopi Bogor,2026-02-03,2204,1.792,3.49,0.63
+FG-GYO-2601-029,RST-051|RST-052,GRN-05,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-01-30,94,2026-10-27,Distributor Jakarta,2026-02-03,2201,1.093,2.375,0.67
+FG-GYO-2601-030,RST-053|RST-054,GRN-05,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-01-30,100,2026-10-27,Toko Daring (kurir),2026-02-05,1976,1.13,1.84,0.55
+FG-GYO-2602-031,RST-055,GRN-05,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-02-01,52,2026-10-29,Kafe Kampus IPB,2026-02-10,2244,0.693,1.273,0.3
+FG-GYO-2601-032,RST-056,GRN-05,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-01-30,45,2026-10-27,Toko Daring (kurir),2026-02-02,1855,0.481,1.156,0.36
+FG-GYO-2603-033,RST-057,GRN-06,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-14,44,2026-12-09,Toko Kopi Bogor,2026-03-17,2347,0.498,0.834,0.34
+FG-GYO-2603-034,RST-058,GRN-06,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-13,56,2026-12-08,Kafe Kampus IPB,2026-03-19,2223,0.69,1.113,0.28
+FG-GYO-2603-035,RST-059|RST-060,GRN-06,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-17,97,2026-12-12,Toko Kopi Bogor,2026-03-22,2189,1.008,2.46,0.76
+FG-GYO-2603-036,RST-061,GRN-06,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-15,44,2026-12-10,Kafe Banda Aceh,2026-03-20,469,0.497,0.999,0.29
+FG-GYO-2603-037,RST-062|RST-063,GRN-06,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-16,97,2026-12-11,Distributor Jakarta,2026-03-19,2212,1.145,1.846,0.55
+FG-GYO-2603-038,RST-064,GRN-06,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-18,44,2026-12-13,Kafe Kampus IPB,2026-03-23,2195,0.465,0.828,0.31
+FG-GYO-2603-039,RST-065|RST-066|RST-067,GRN-06,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-21,162,2026-12-16,Kafe Kampus IPB,2026-03-30,2243,2.024,3.85,1.04
+FG-GYO-2603-040,RST-068|RST-069,GRN-06,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-21,93,2026-12-16,Toko Kopi Bogor,2026-03-24,2360,1.14,1.951,0.72
+FG-GYO-2605-041,RST-070,GRN-07,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-14,56,2027-02-08,Distributor Jakarta,2026-05-21,2166,0.623,1.036,0.36
+FG-GYO-2605-042,RST-071,GRN-07,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-12,45,2027-02-06,Kafe Banda Aceh,2026-05-19,451,0.568,0.813,0.24
+FG-GYO-2605-043,RST-072|RST-073|RST-074,GRN-07,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-13,160,2027-02-07,Toko Kopi Bogor,2026-05-19,2322,2.068,4.139,1.22
+FG-GYO-2605-044,RST-075|RST-076,GRN-07,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-17,101,2027-02-11,Distributor Jakarta,2026-05-25,2088,1.319,2.314,0.78
+FG-GYO-2605-045,RST-077,GRN-07,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-15,57,2027-02-09,Toko Kopi Bogor,2026-05-24,2194,0.714,1.174,0.35
+FG-GYO-2602-046,RST-078|RST-079,GRN-08,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-02-09,93,2026-11-06,Kafe Kampus IPB,2026-02-12,2243,1.03,2.155,0.47
+FG-GYO-2602-047,RST-080|RST-081,GRN-08,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-02-11,99,2026-11-08,Kedai Medan,2026-02-16,679,1.282,2.06,0.63
+FG-GYO-2602-048,RST-082,GRN-08,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-02-12,44,2026-11-09,Distributor Jakarta,2026-02-16,2169,0.512,0.89,0.22
+FG-GYO-2602-049,RST-083,GRN-08,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-02-12,57,2026-11-09,Toko Kopi Bogor,2026-02-15,2202,0.792,1.105,0.32
+FG-GYO-2602-050,RST-084|RST-085,GRN-08,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-02-13,109,2026-11-10,Kedai Medan,2026-02-16,680,1.283,2.541,0.58
+FG-GYO-2602-051,RST-086,GRN-08,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-02-12,54,2026-11-09,Kafe Kampus IPB,2026-02-16,2281,0.662,1.274,0.3
+FG-GYO-2602-052,RST-087|RST-088|RST-089,GRN-08,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-02-12,133,2026-11-09,Toko Kopi Bogor,2026-02-16,2319,1.635,2.512,0.78
+FG-GYO-2602-053,RST-090|RST-091,GRN-08,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-02-13,95,2026-11-10,Kafe Kampus IPB,2026-02-22,2300,0.994,2.036,0.44
+FG-GYO-2606-054,RST-092,GRN-09,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-03,45,2027-02-28,Toko Kopi Bogor,2026-06-06,2202,0.522,0.993,0.23
+FG-GYO-2606-055,RST-093,GRN-09,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-03,46,2027-02-28,Toko Kopi Bogor,2026-06-08,2259,0.542,1.015,0.24
+FG-GYO-2606-056,RST-094|RST-095|RST-096,GRN-09,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-06,141,2027-03-03,Toko Kopi Bogor,2026-06-14,2298,1.96,3.094,0.84
+FG-GYO-2606-057,RST-097|RST-098,GRN-09,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-06,89,2027-03-03,Kedai Medan,2026-06-11,640,1.056,2.274,0.61
+FG-GYO-2606-058,RST-099,GRN-09,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-08,41,2027-03-05,Toko Kopi Bogor,2026-06-11,2245,0.435,0.871,0.24
+FG-GYO-2606-059,RST-100|RST-101,GRN-09,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-08,97,2027-03-05,Kafe Kampus IPB,2026-06-15,2290,1.16,2.066,0.63
+FG-GYO-2606-060,RST-102|RST-103,GRN-09,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-09,100,2027-03-06,Kafe Banda Aceh,2026-06-16,459,1.112,2.067,0.45
+FG-GYO-2606-061,RST-104,GRN-09,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-11,54,2027-03-08,Kafe Kampus IPB,2026-06-16,2353,0.615,1.082,0.28
+FG-GYO-2604-062,RST-105,GRN-10,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-21,50,2027-01-16,Kafe Banda Aceh,2026-04-27,445,0.507,1.032,0.29
+FG-GYO-2604-063,RST-106,GRN-10,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-24,51,2027-01-19,Toko Kopi Bogor,2026-04-29,2254,0.653,1.285,0.36
+FG-GYO-2604-064,RST-107|RST-108,GRN-10,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-22,92,2027-01-17,Kafe Banda Aceh,2026-04-25,470,1.156,2.308,0.49
+FG-GYO-2604-065,RST-109,GRN-10,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-24,43,2027-01-19,Kafe Kampus IPB,2026-04-29,2241,0.467,0.924,0.3
+FG-GYO-2604-066,RST-110|RST-111,GRN-10,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-26,101,2027-01-21,Kafe Kampus IPB,2026-04-29,2327,1.346,2.082,0.73
+FG-GYO-2604-067,RST-112|RST-113,GRN-10,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-27,103,2027-01-22,Distributor Jakarta,2026-05-03,2090,1.121,2.328,0.73
+FG-GYO-2604-068,RST-114,GRN-10,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-25,56,2027-01-20,Toko Kopi Bogor,2026-05-04,2337,0.583,1.045,0.29
+FG-GYO-2604-069,RST-115|RST-116,GRN-10,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-27,96,2027-01-22,Kafe Kampus IPB,2026-04-30,2279,1.322,1.944,0.7
+FG-GYO-2604-070,RST-117,GRN-10,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-30,56,2027-01-25,Toko Daring (kurir),2026-05-06,1918,0.717,1.166,0.33
+FG-GYO-2604-071,RST-118,GRN-10,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-28,49,2027-01-23,Kafe Banda Aceh,2026-05-03,457,0.613,1.01,0.32
+FG-GYO-2603-072,RST-119,GRN-11,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-21,52,2026-12-16,Toko Kopi Bogor,2026-03-30,2304,0.539,1.275,0.4
+FG-GYO-2603-073,RST-120|RST-121|RST-122,GRN-11,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-20,146,2026-12-15,Toko Kopi Bogor,2026-03-25,2324,1.575,3.626,0.78
+FG-GYO-2603-074,RST-123,GRN-11,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-21,47,2026-12-16,Kedai Medan,2026-03-25,642,0.598,1.074,0.34
+FG-GYO-2603-075,RST-124|RST-125,GRN-11,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-22,103,2026-12-17,Kafe Kampus IPB,2026-03-27,2237,1.121,2.141,0.7
+FG-GYO-2603-076,RST-126|RST-127|RST-128,GRN-11,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-26,166,2026-12-21,Toko Kopi Bogor,2026-03-29,2205,2.246,3.345,0.99
+FG-GYO-2603-077,RST-129|RST-130,GRN-11,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-26,93,2026-12-21,Kafe Banda Aceh,2026-04-01,467,1.074,1.745,0.6
+FG-GYO-2605-078,RST-131,GRN-12,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-30,46,2027-02-24,Kafe Kampus IPB,2026-06-08,2281,0.53,0.908,0.32
+FG-GYO-2606-079,RST-132|RST-133|RST-134,GRN-12,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-01,134,2027-02-26,Kedai Medan,2026-06-10,658,1.731,2.66,0.8
+FG-GYO-2606-080,RST-135|RST-136|RST-137,GRN-12,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-04,152,2027-03-01,Kafe Kampus IPB,2026-06-11,2261,1.592,3.15,0.74
+FG-GYO-2606-081,RST-138|RST-139|RST-140,GRN-12,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-06,146,2027-03-03,Kafe Kampus IPB,2026-06-15,2264,1.482,3.05,0.64
+FG-GYO-2606-082,RST-141|RST-142|RST-143,GRN-12,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-05,156,2027-03-02,Kafe Banda Aceh,2026-06-10,455,1.825,3.596,1.2
+FG-GYO-2603-083,RST-144|RST-145|RST-146,GRN-13,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-13,158,2026-12-08,Kafe Kampus IPB,2026-03-20,2231,1.99,3.389,0.87
+FG-GYO-2603-084,RST-147|RST-148|RST-149,GRN-13,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-17,150,2026-12-12,Kafe Kampus IPB,2026-03-24,2289,1.843,2.91,0.66
+FG-GYO-2603-085,RST-150,GRN-13,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-16,46,2026-12-11,Toko Daring (kurir),2026-03-25,1979,0.582,1.126,0.36
+FG-GYO-2603-086,RST-151|RST-152|RST-153,GRN-13,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-19,148,2026-12-14,Toko Kopi Bogor,2026-03-22,2353,1.669,3.42,0.72
+FG-GYO-2603-087,RST-154|RST-155,GRN-13,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-20,108,2026-12-15,Toko Kopi Bogor,2026-03-23,2331,1.346,2.566,0.59
+FG-GYO-2603-088,RST-156,GRN-14,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-28,49,2026-12-23,Distributor Jakarta,2026-04-05,2086,0.673,1.036,0.3
+FG-GYO-2603-089,RST-157|RST-158,GRN-14,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-28,100,2026-12-23,Kedai Medan,2026-04-04,633,1.011,1.947,0.65
+FG-GYO-2603-090,RST-159|RST-160,GRN-14,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-30,95,2026-12-25,Toko Kopi Bogor,2026-04-08,2344,1.02,2.035,0.7
+FG-GYO-2603-091,RST-161|RST-162,GRN-14,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-29,95,2026-12-24,Toko Daring (kurir),2026-04-05,1908,1.235,1.809,0.42
+FG-GYO-2603-092,RST-163,GRN-14,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-29,49,2026-12-24,Kafe Banda Aceh,2026-04-06,453,0.597,1.27,0.37
+FG-GYO-2603-093,RST-164,GRN-15,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-27,48,2026-12-22,Kafe Banda Aceh,2026-03-31,437,0.484,1.081,0.28
+FG-GYO-2603-094,RST-165,GRN-15,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-29,47,2026-12-24,Toko Kopi Bogor,2026-04-03,2272,0.48,1.194,0.36
+FG-GYO-2603-095,RST-166,GRN-15,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-28,44,2026-12-23,Kafe Kampus IPB,2026-04-02,2198,0.532,0.818,0.32
+FG-GYO-2603-096,RST-167,GRN-15,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-28,51,2026-12-23,Kafe Banda Aceh,2026-04-06,451,0.675,1.179,0.25
+FG-GYO-2603-097,RST-168,GRN-15,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-30,43,2026-12-25,Toko Kopi Bogor,2026-04-04,2296,0.49,0.984,0.21
+FG-GYO-2604-098,RST-169|RST-170|RST-171,GRN-15,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-01,154,2026-12-27,Toko Kopi Bogor,2026-04-06,2335,2.119,3.233,0.79
+FG-GYO-2603-099,RST-172|RST-173|RST-174,GRN-15,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-31,150,2026-12-26,Toko Daring (kurir),2026-04-03,1990,1.876,3.815,1.15
+FG-GYO-2604-100,RST-175,GRN-16,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-16,48,2027-01-11,Toko Kopi Bogor,2026-04-23,2207,0.565,1.061,0.3
+FG-GYO-2604-101,RST-176|RST-177,GRN-16,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-20,95,2027-01-15,Toko Daring (kurir),2026-04-27,1962,1.193,2.043,0.54
+FG-GYO-2604-102,RST-178,GRN-16,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-18,66,2027-01-13,Kedai Medan,2026-04-24,642,0.596,1.264,0.3
+FG-GYO-2604-103,RST-179|RST-180|RST-181,GRN-16,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-21,140,2027-01-16,Distributor Jakarta,2026-04-29,2089,1.765,3.249,0.86
+FG-GYO-2604-104,RST-182|RST-183|RST-184,GRN-16,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-21,156,2027-01-16,Distributor Jakarta,2026-04-25,2091,1.881,3.501,1.24
+FG-GYO-2604-105,RST-185|RST-186,GRN-16,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-24,102,2027-01-19,Kafe Banda Aceh,2026-04-29,457,1.178,2.468,0.47
+FG-GYO-2605-106,RST-187|RST-188|RST-189,GRN-17,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-07,157,2027-02-01,Kafe Kampus IPB,2026-05-13,2340,1.867,2.836,0.74
+FG-GYO-2605-107,RST-190,GRN-17,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-09,43,2027-02-03,Toko Daring (kurir),2026-05-14,1860,0.506,0.801,0.28
+FG-GYO-2605-108,RST-191,GRN-17,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-11,54,2027-02-05,Toko Kopi Bogor,2026-05-16,2350,0.744,1.12,0.38
+FG-GYO-2605-109,RST-192|RST-193|RST-194,GRN-17,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-09,141,2027-02-03,Toko Kopi Bogor,2026-05-18,2231,1.695,3.252,1.04
+FG-GYO-2605-110,RST-195|RST-196|RST-197,GRN-17,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-14,165,2027-02-08,Toko Kopi Bogor,2026-05-20,2247,1.978,3.532,1.03
+FG-GYO-2605-111,RST-198,GRN-17,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-12,58,2027-02-06,Distributor Jakarta,2026-05-15,2086,0.608,1.166,0.45
+FG-GYO-2603-112,RST-199|RST-200,GRN-18,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-11,98,2026-12-06,Distributor Jakarta,2026-03-19,2237,1.122,1.937,0.56
+FG-GYO-2603-113,RST-201,GRN-18,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-09,48,2026-12-04,Distributor Jakarta,2026-03-16,2133,0.505,0.917,0.31
+FG-GYO-2603-114,RST-202|RST-203|RST-204,GRN-18,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-12,180,2026-12-07,Distributor Jakarta,2026-03-19,2092,1.897,2.823,1.03
+FG-GYO-2603-115,RST-205|RST-206|RST-207,GRN-18,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-15,141,2026-12-10,Toko Kopi Bogor,2026-03-22,2339,1.634,2.972,1.05
+FG-GYO-2603-116,RST-208|RST-209|RST-210,GRN-18,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-14,156,2026-12-09,Toko Kopi Bogor,2026-03-17,2237,2.097,2.848,0.94
+FG-GYO-2603-117,RST-211|RST-212|RST-213,GRN-18,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-16,147,2026-12-11,Toko Kopi Bogor,2026-03-21,2250,1.791,2.705,0.69
+FG-GYO-2603-118,RST-214,GRN-18,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-15,50,2026-12-10,Toko Daring (kurir),2026-03-22,1888,0.609,1.185,0.33
+FG-GYO-2603-119,RST-215|RST-216,GRN-19,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-14,101,2026-12-09,Distributor Jakarta,2026-03-21,2103,1.264,1.978,0.5
+FG-GYO-2603-120,RST-217|RST-218|RST-219,GRN-19,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-16,136,2026-12-11,Kafe Kampus IPB,2026-03-19,2255,1.474,3.516,1.04
+FG-GYO-2603-121,RST-220|RST-221,GRN-19,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-18,101,2026-12-13,Kafe Kampus IPB,2026-03-22,2188,1.126,2.009,0.42
+FG-GYO-2603-122,RST-222|RST-223,GRN-19,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-18,100,2026-12-13,Kafe Kampus IPB,2026-03-27,2324,1.277,2.252,0.57
+FG-GYO-2603-123,RST-224|RST-225|RST-226,GRN-19,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-19,165,2026-12-14,Kafe Kampus IPB,2026-03-27,2294,2.305,3.928,0.96
+FG-GYO-2603-124,RST-227,GRN-19,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-03-19,54,2026-12-14,Kedai Medan,2026-03-26,649,0.582,1.287,0.25
+FG-GYO-2606-125,RST-228|RST-229,GRN-20,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-30,96,2027-03-27,Kafe Banda Aceh,2026-07-09,445,0.989,1.884,0.53
+FG-GYO-2607-126,RST-230,GRN-20,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-02,47,2027-03-29,Toko Kopi Bogor,2026-07-10,2186,0.603,1.035,0.24
+FG-GYO-2607-127,RST-231,GRN-20,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-03,50,2027-03-30,Toko Daring (kurir),2026-07-07,1898,0.608,1.029,0.35
+FG-GYO-2607-128,RST-232,GRN-20,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-04,43,2027-03-31,Toko Daring (kurir),2026-07-07,1875,0.45,1.005,0.33
+FG-GYO-2607-129,RST-233,GRN-20,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-04,54,2027-03-31,Distributor Jakarta,2026-07-10,2126,0.729,1.239,0.38
+FG-GYO-2607-130,RST-234,GRN-20,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-04,50,2027-03-31,Toko Daring (kurir),2026-07-11,1964,0.634,1.217,0.29
+FG-GYO-2607-131,RST-235|RST-236,GRN-20,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-03,104,2027-03-30,Distributor Jakarta,2026-07-07,2242,1.085,2.048,0.6
+FG-GYO-2605-132,RST-237,GRN-21,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-01,52,2027-01-26,Kedai Medan,2026-05-10,672,0.631,1.124,0.37
+FG-GYO-2605-133,RST-238|RST-239,GRN-21,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-03,100,2027-01-28,Toko Daring (kurir),2026-05-12,1975,1.271,2.341,0.56
+FG-GYO-2605-134,RST-240|RST-241|RST-242,GRN-21,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-04,153,2027-01-29,Kafe Kampus IPB,2026-05-12,2186,1.631,3.198,0.7
+FG-GYO-2605-135,RST-243,GRN-21,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-05,56,2027-01-30,Toko Kopi Bogor,2026-05-12,2277,0.755,1.082,0.23
+FG-GYO-2605-136,RST-244|RST-245|RST-246,GRN-21,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-05,155,2027-01-30,Toko Daring (kurir),2026-05-14,1852,1.987,3.693,0.94
+FG-GYO-2605-137,RST-247|RST-248,GRN-21,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-06,97,2027-01-31,Kedai Medan,2026-05-10,66400,0.993,2.372,0.61
+FG-GYO-2607-138,RST-249|RST-250|RST-251,GRN-22,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-18,152,2027-04-14,Kedai Medan,2026-07-23,631,1.771,3.542,0.87
+FG-GYO-2607-139,RST-252|RST-253|RST-254,GRN-22,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-20,147,2027-04-16,Toko Daring (kurir),2026-07-24,1846,1.774,3.11,0.65
+FG-GYO-2607-140,RST-255,GRN-22,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-21,58,2027-04-17,Kafe Banda Aceh,2026-07-29,467,0.755,1.184,0.38
+FG-GYO-2607-141,RST-256|RST-257|RST-258,GRN-22,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-21,168,2027-04-17,Toko Kopi Bogor,2026-07-28,2312,2.341,3.667,1.14
+FG-GYO-2607-142,RST-259,GRN-22,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-22,45,2027-04-18,Kedai Medan,2026-07-26,645,0.532,0.857,0.28
+FG-GYO-2606-143,RST-260|RST-261,GRN-23,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-09,104,2027-03-06,Distributor Jakarta,2026-06-14,2189,1.099,2.688,0.73
+FG-GYO-2606-144,RST-262|RST-263|RST-264,GRN-23,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-11,156,2027-03-08,Toko Kopi Bogor,2026-06-18,2354,1.595,2.88,0.85
+FG-GYO-2606-145,RST-265|RST-266|RST-267,GRN-23,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-13,138,2027-03-10,Distributor Jakarta,2026-06-21,2254,1.814,3.498,1.08
+FG-GYO-2606-146,RST-268|RST-269|RST-270,GRN-23,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-14,142,2027-03-11,Toko Kopi Bogor,2026-06-19,2196,1.789,3.604,0.97
+FG-GYO-2606-147,RST-271,GRN-23,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-16,44,2027-03-13,Toko Daring (kurir),2026-06-25,1915,0.585,1.065,0.34
+FG-GYO-2605-148,RST-272,GRN-24,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-14,49,2027-02-08,Toko Kopi Bogor,2026-05-22,2228,0.637,1.22,0.37
+FG-GYO-2605-149,RST-273,GRN-24,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-15,42,2027-02-09,Toko Kopi Bogor,2026-05-21,2362,0.535,1.041,0.32
+FG-GYO-2605-150,RST-274|RST-275|RST-276,GRN-24,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-16,150,2027-02-10,Kafe Kampus IPB,2026-05-23,2306,1.581,3.443,0.66
+FG-GYO-2605-151,RST-277|RST-278|RST-279,GRN-24,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-17,158,2027-02-11,Toko Daring (kurir),2026-05-25,1977,1.651,4.021,0.9
+FG-GYO-2605-152,RST-280|RST-281|RST-282,GRN-24,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-19,145,2027-02-13,Toko Kopi Bogor,2026-05-27,2223,1.925,3.354,1.09
+FG-GYO-2605-153,RST-283,GRN-24,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-18,53,2027-02-12,Kafe Banda Aceh,2026-05-25,455,0.7,1.3,0.24
+FG-GYO-2604-154,RST-284,GRN-25,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-22,55,2027-01-17,Toko Kopi Bogor,2026-04-27,2308,0.695,1.164,0.24
+FG-GYO-2604-155,RST-285|RST-286|RST-287,GRN-25,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-21,147,2027-01-16,Toko Daring (kurir),2026-04-25,1879,1.673,3.479,1.07
+FG-GYO-2604-156,RST-288|RST-289,GRN-25,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-21,96,2027-01-16,Kedai Medan,2026-04-27,674,1.333,1.79,0.51
+FG-GYO-2604-157,RST-290,GRN-25,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-24,52,2027-01-19,Distributor Jakarta,2026-05-02,2234,0.603,1.009,0.23
+FG-GYO-2604-158,RST-291,GRN-25,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-24,52,2027-01-19,Toko Daring (kurir),2026-04-28,1867,0.572,1.101,0.29
+FG-GYO-2604-159,RST-292|RST-293|RST-294,GRN-25,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-25,134,2027-01-20,Toko Daring (kurir),2026-05-01,1883,1.876,3.101,0.62
+FG-GYO-2604-160,RST-295,GRN-25,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-24,58,2027-01-19,Kafe Kampus IPB,2026-04-30,2186,0.773,1.159,0.3
+FG-GYO-2607-161,RST-296|RST-297,GRN-26,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-08,96,2027-04-04,Kedai Medan,2026-07-17,632,1.311,2.098,0.4
+FG-GYO-2607-162,RST-298|RST-299|RST-300,GRN-26,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-07,145,2027-04-03,Toko Kopi Bogor,2026-07-10,2337,1.536,3.581,0.89
+FG-GYO-2607-163,RST-301,GRN-26,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-08,43,2027-04-04,Toko Kopi Bogor,2026-07-16,2196,0.596,0.92,0.31
+FG-GYO-2607-164,RST-302|RST-303|RST-304,GRN-26,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-11,139,2027-04-07,Kafe Kampus IPB,2026-07-19,2270,1.717,3.338,0.91
+FG-GYO-2607-165,RST-305,GRN-26,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-11,54,2027-04-07,Kafe Kampus IPB,2026-07-20,2199,0.753,1.267,0.35
+FG-GYO-2607-166,RST-306,GRN-26,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-10,53,2027-04-06,Distributor Jakarta,2026-07-15,2181,0.592,1.088,0.33
+FG-GYO-2607-167,RST-307|RST-308,GRN-26,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-14,98,2027-04-10,Toko Daring (kurir),2026-07-22,1845,1.05,2.508,0.41
+FG-GYO-2606-168,RST-309|RST-310,GRN-27,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-22,98,2027-03-19,Distributor Jakarta,2026-06-25,2220,1.16,2.157,0.71
+FG-GYO-2606-169,RST-311,GRN-27,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-24,49,2027-03-21,Kafe Kampus IPB,2026-06-27,2340,0.606,1.153,0.3
+FG-GYO-2606-170,RST-312|RST-313,GRN-27,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-23,105,2027-03-20,Toko Daring (kurir),2026-06-27,1909,1.18,2.424,0.7
+FG-GYO-2606-171,RST-314|RST-315|RST-316,GRN-27,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-25,143,2027-03-22,Toko Daring (kurir),2026-06-29,1884,1.686,2.959,1.11
+FG-GYO-2606-172,RST-317,GRN-27,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-24,51,2027-03-21,Kafe Kampus IPB,2026-06-28,2233,0.642,1.292,0.36
+FG-GYO-2604-173,RST-318|RST-319,GRN-28,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-04-29,94,2027-01-24,Toko Kopi Bogor,2026-05-02,2220,1.155,2.026,0.39
+FG-GYO-2605-174,RST-320,GRN-28,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-03,49,2027-01-28,Toko Daring (kurir),2026-05-06,1884,0.653,1.034,0.33
+FG-GYO-2605-175,RST-321|RST-322,GRN-28,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-03,103,2027-01-28,Distributor Jakarta,2026-05-10,2098,1.05,2.273,0.76
+FG-GYO-2605-176,RST-323|RST-324,GRN-28,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-05,101,2027-01-30,Kafe Kampus IPB,2026-05-13,2357,1.353,1.893,0.67
+FG-GYO-2605-177,RST-325|RST-326,GRN-28,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-06,111,2027-01-31,Distributor Jakarta,2026-05-09,2181,1.457,2.122,0.85
+FG-GYO-2605-178,RST-327|RST-328|RST-329,GRN-28,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-06,142,2027-01-31,Toko Daring (kurir),2026-05-11,1895,1.945,2.92,0.72
+FG-GYO-2605-179,RST-330,GRN-28,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-07,49,2027-02-01,Kafe Kampus IPB,2026-05-14,2193,0.571,1.019,0.37
+FG-GYO-2606-180,RST-331,GRN-29,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-29,43,2027-03-26,Kedai Medan,2026-07-03,666,0.447,0.798,0.34
+FG-GYO-2606-181,RST-332,GRN-29,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-28,50,2027-03-25,Toko Kopi Bogor,2026-07-04,2237,0.68,1.273,0.32
+FG-GYO-2606-182,RST-333|RST-334|RST-335,GRN-29,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-29,151,2027-03-26,Toko Daring (kurir),2026-07-05,1946,1.76,2.761,0.75
+FG-GYO-2607-183,RST-336,GRN-29,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-01,56,2027-03-28,Kafe Banda Aceh,2026-07-08,453,0.637,1.406,0.34
+FG-GYO-2607-184,RST-337|RST-338|RST-339,GRN-29,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-03,151,2027-03-30,Toko Daring (kurir),2026-07-09,1927,1.734,3.416,1.1
+FG-GYO-2607-185,RST-340|RST-341,GRN-29,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-05,87,2027-04-01,Kafe Kampus IPB,2026-07-14,2300,1.069,2.021,0.52
+FG-GYO-2606-186,RST-342|RST-343,GRN-30,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-16,95,2027-03-13,Toko Daring (kurir),2026-06-25,1919,0.977,2.289,0.75
+FG-GYO-2606-187,RST-344|RST-345,GRN-30,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-19,90,2027-03-16,Kafe Kampus IPB,2026-06-28,2346,0.932,2.332,0.68
+FG-GYO-2606-188,RST-346|RST-347,GRN-30,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-20,103,2027-03-17,Toko Kopi Bogor,2026-06-27,2206,1.338,2.164,0.47
+FG-GYO-2606-189,RST-348|RST-349|RST-350,GRN-30,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-21,163,2027-03-18,Distributor Jakarta,2026-06-24,2133,1.797,2.939,1.15
+FG-GYO-2606-190,RST-351,GRN-30,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-21,51,2027-03-18,Distributor Jakarta,2026-06-27,2214,0.708,1.258,0.32
+FG-GYO-2607-191,RST-352,GRN-31,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-16,48,2027-04-12,Distributor Jakarta,2026-07-20,2222,0.535,1.022,0.25
+FG-GYO-2607-192,RST-353|RST-354|RST-355,GRN-31,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-18,164,2027-04-14,Kafe Kampus IPB,2026-07-21,2353,2.067,3.138,0.68
+FG-GYO-2607-193,RST-356,GRN-31,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-20,54,2027-04-16,Kafe Banda Aceh,2026-07-28,442,0.618,1.236,0.28
+FG-GYO-2607-194,RST-357|RST-358|RST-359,GRN-31,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-19,154,2027-04-15,Toko Daring (kurir),2026-07-28,1981,1.733,3.872,0.81
+FG-GYO-2607-195,RST-360|RST-361|RST-362,GRN-31,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-22,163,2027-04-18,Toko Kopi Bogor,2026-07-28,2353,2.127,3.254,0.77
+FG-GYO-2607-196,RST-363|RST-364,GRN-31,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-21,103,2027-04-17,Toko Kopi Bogor,2026-07-30,2194,1.134,1.862,0.53
+FG-GYO-2607-197,RST-365,GRN-31,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-21,43,2027-04-17,Toko Daring (kurir),2026-07-30,1937,0.462,1.104,0.27
+FG-GYO-2607-198,RST-366,GRN-31,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-07-25,55,2027-04-21,Toko Daring (kurir),2026-08-03,1983,0.622,1.05,0.42
+FG-GYO-2605-199,RST-367,GRN-32,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-30,45,2027-02-24,Toko Kopi Bogor,2026-06-06,2306,0.562,0.896,0.32
+FG-GYO-2606-200,RST-368|RST-369,GRN-32,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-01,91,2027-02-26,Kedai Medan,2026-06-09,648,1.242,1.882,0.58
+FG-GYO-2605-201,RST-370,GRN-32,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-30,42,2027-02-24,Distributor Jakarta,2026-06-08,2115,0.526,1.08,0.21
+FG-GYO-2605-202,RST-371|RST-372,GRN-32,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-30,101,2027-02-24,Kafe Kampus IPB,2026-06-04,2321,1.091,2.578,0.6
+FG-GYO-2606-203,RST-373|RST-374|RST-375,GRN-32,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-01,158,2027-02-26,Kafe Kampus IPB,2026-06-10,2289,1.66,4.04,1.19
+FG-GYO-2606-204,RST-376,GRN-32,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-04,46,2027-03-01,Kafe Kampus IPB,2026-06-13,2313,0.581,0.917,0.29
+FG-GYO-2609-205,RST-377|RST-378,GRN-33,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-09-05,104,2027-06-02,Kafe Banda Aceh,2026-09-09,443,1.216,2.57,0.59
+FG-GYO-2609-206,RST-379|RST-380,GRN-33,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-09-07,97,2027-06-04,Toko Kopi Bogor,2026-09-15,2354,1.343,1.946,0.51
+FG-GYO-2609-207,RST-381|RST-382,GRN-33,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-09-07,102,2027-06-04,Kafe Kampus IPB,2026-09-11,2358,1.415,2.413,0.59
+FG-GYO-2609-208,RST-383|RST-384,GRN-33,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-09-07,100,2027-06-04,Distributor Jakarta,2026-09-16,2237,1.326,2.158,0.45
+FG-GYO-2609-209,RST-385|RST-386|RST-387,GRN-33,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-09-09,141,2027-06-06,Kafe Banda Aceh,2026-09-13,46700,1.558,3.561,0.73
+FG-GYO-2609-210,RST-388,GRN-33,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-09-10,42,2027-06-07,Kedai Medan,2026-09-18,641,0.51,0.935,0.32
+FG-GYO-2609-211,RST-389,GRN-33,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-09-11,58,2027-06-08,Toko Kopi Bogor,2026-09-16,2267,0.594,1.447,0.34
+FG-GYO-2606-212,RST-390|RST-391,GRN-34,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-11,85,2027-03-08,Kafe Kampus IPB,2026-06-18,2292,1.027,1.897,0.45
+FG-GYO-2606-213,RST-392|RST-393,GRN-34,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-11,100,2027-03-08,Toko Daring (kurir),2026-06-18,1993,1.341,2.306,0.62
+FG-GYO-2606-214,RST-394|RST-395,GRN-34,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-10,115,2027-03-07,Toko Kopi Bogor,2026-06-14,2200,1.605,2.773,0.58
+FG-GYO-2606-215,RST-396|RST-397,GRN-34,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-12,90,2027-03-09,Kafe Kampus IPB,2026-06-17,2298,0.987,1.663,0.55
+FG-GYO-2606-216,RST-398|RST-399,GRN-34,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-15,107,2027-03-12,Distributor Jakarta,2026-06-18,2254,1.123,2.567,0.58
+FG-GYO-2606-217,RST-400,GRN-34,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-06-13,43,2027-03-10,Kafe Banda Aceh,2026-06-16,438,0.495,0.828,0.29
+FG-GYO-2608-218,RST-401|RST-402|RST-403,GRN-35,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-08-28,149,2027-05-25,Toko Kopi Bogor,2026-09-05,2285,1.924,3.036,1.16
+FG-GYO-2608-219,RST-404,GRN-35,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-08-25,51,2027-05-22,Toko Daring (kurir),2026-08-31,1966,0.645,1.174,0.24
+FG-GYO-2608-220,RST-405|RST-406|RST-407,GRN-35,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-08-27,145,2027-05-24,Kafe Kampus IPB,2026-09-01,2240,1.692,3.025,0.68
+FG-GYO-2608-221,RST-408,GRN-35,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-08-29,41,2027-05-26,Distributor Jakarta,2026-09-04,2104,0.553,1.053,0.26
+FG-GYO-2608-222,RST-409|RST-410,GRN-35,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-08-28,104,2027-05-25,Toko Kopi Bogor,2026-09-02,2296,1.043,2.685,0.46
+FG-GYO-2605-223,RST-411,GRN-36,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-08,55,2027-02-02,Toko Daring (kurir),2026-05-11,1880,0.624,1.024,0.25
+FG-GYO-2605-224,RST-412|RST-413,GRN-36,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-09,108,2027-02-03,Kafe Kampus IPB,2026-05-17,2187,1.105,2.112,0.79
+FG-GYO-2605-225,RST-414|RST-415,GRN-36,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-08,88,2027-02-02,Toko Daring (kurir),2026-05-15,1972,1.22,2.029,0.6
+FG-GYO-2605-226,RST-416|RST-417|RST-418,GRN-36,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-10,163,2027-02-04,Toko Kopi Bogor,2026-05-19,2315,2.063,4.045,0.79
+FG-GYO-2605-227,RST-419|RST-420,GRN-36,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-12,95,2027-02-06,Toko Kopi Bogor,2026-05-21,2267,1.283,2.395,0.51
+FG-GYO-2605-228,RST-421,GRN-36,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-11,46,2027-02-05,Kafe Kampus IPB,2026-05-20,2350,0.485,0.932,0.3
+FG-GYO-2605-229,RST-422|RST-423,GRN-36,Kopi Arabika Gayo Natural - Medium Roast - 200 g,2026-05-12,107,2027-02-06,Toko Daring (kurir),2026-05-16,1952,1.448,2.698,0.76

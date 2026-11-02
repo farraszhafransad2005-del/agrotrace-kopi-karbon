@@ -1,0 +1,9 @@
+kode,nama,satuan,nilai,sumber,status
+LISTRIK,Listrik jaringan PLN (sistem Sumatera),kg CO2e/kWh,0.94,"JCM Indonesia / Kementerian ESDM (data 2019) via dokumen GEC Jepang 2022 (https://gec.jp/innovation/R4/T.CO2EmissionFactor_20220406.pdf). Teks sumber terbaca kurang rapi; cek ulang ke dokumen asli",Bersumber (cek ulang)
+LPG,LPG pembakaran,kg CO2e/kg LPG,2.987,"IPCC 2006 Tier 1 (basis nilai kalor netto) via https://greencalculus.com/data/ipcc-fuel-combustion-factors/",Bersumber
+SOLAR,Solar (gas/diesel oil) pembakaran,kg CO2e/liter,2.661,"IPCC 2006 Tier 1 via https://greencalculus.com/data/ipcc-fuel-combustion-factors/",Bersumber
+N_LAPANGAN,Emisi langsung N2O di lahan dari pupuk N sintetis,kg CO2e/kg N,6.86,"EF1 iklim basah 0.016 kg N2O-N/kg N (IPCC 2019 Refinement) x 44/28 x GWP N2O 273 (AR6); lihat https://greencalculus.com/data/ipcc-afolu-emission-factors/",Bersumber
+N_PRODUKSI,Produksi pupuk N sintetis (hulu pabrik),kg CO2e/kg N,4.0,"Asumsi tim berdasarkan kisaran umum literatur; BELUM diverifikasi. Ganti dengan nilai dari sumber terukur",Asumsi
+TRUK,Angkutan truk barang,kg CO2e/ton-km,0.10,"Asumsi tim berdasarkan kisaran umum truk berat; BELUM diverifikasi",Asumsi
+FILM,Kantong laminasi (film multilapis) dengan valve,kg CO2e/kg bahan,4.0,"Asumsi tim; BELUM diverifikasi",Asumsi
+KARDUS,Kardus gelombang pengiriman,kg CO2e/kg bahan,1.0,"Asumsi tim; BELUM diverifikasi",Asumsi
